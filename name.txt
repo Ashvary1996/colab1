@@ -1,2 +1,8 @@
-1.Ashvary
-2.Sam
+ls
+git clone https://github.com/Ashvary1996/colab1.git
+cd colab1
+git add .
+git commit -m"added name"
+git push -u origin main
+git branch login
+git checkout login
